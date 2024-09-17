@@ -1,0 +1,4 @@
+PyQt5==5.15.6
+psutil==5.8.0
+plyer==2.0.0
+pyobjc-framework-Cocoa==8.5

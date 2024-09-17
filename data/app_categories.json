@@ -1,0 +1,17 @@
+{
+    "Safari": "Browsing",
+    "Chrome": "Browsing",
+    "Firefox": "Browsing",
+    "Mail": "Communication",
+    "Slack": "Communication",
+    "Microsoft Word": "Productivity",
+    "Microsoft Excel": "Productivity",
+    "Visual Studio Code": "Development",
+    "PyCharm": "Development",
+    "Xcode": "Development",
+    "iTunes": "Entertainment",
+    "Spotify": "Entertainment",
+    "Photos": "Media",
+    "Preview": "Utility",
+    "Terminal": "Development"
+}
